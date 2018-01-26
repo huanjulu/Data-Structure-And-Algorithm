@@ -51,6 +51,24 @@ public void preOrder(TreeNode<T> node) {
 
 - [前序遍历的非递归实现]()：
 
+利用辅助栈结构实现
+``` python
+ protected static void iterativePreorder(Node p) {  
+        Stack<Node> stack = new Stack<Node>();  
+        if (p != null) {  
+            stack.push(p);  
+            while (!stack.empty()) {  
+                p = stack.pop();  
+                visit(p);  
+                if (p.getRight() != null)  
+                    stack.push(p.getRight());  
+                if (p.getLeft() != null)  
+                    stack.push(p.getLeft());  
+            }  
+        }  
+    }  
+  
+```
 - [中序遍历的递归实现]()：
 
 ``` python
