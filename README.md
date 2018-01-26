@@ -31,6 +31,29 @@
 
 二叉树的深度：它等于左子树和右子树中的最大深度加 1 （有两个过程，求左子树的深度，(非整棵树的深度)，以及右子树的深度(非整棵树的深度)，然后，加上根结点(也就是加一)） 
 
+**二叉树的遍历**：
+
+所谓树的遍历，就是敖着某种次序访问树中的点，切每个点刚好访问一次。也就是说，按照被访问的次序，可以得到一个某树节点所组成的一个序列。
+
+一般来说，二叉树的广度优先我们指的一般是层序遍历。二叉树的深度遍历则是其余三种遍历方式
+
+- [前序遍历的递归实现]()：[@GGock](http://weibo.com/ggock "开发者个人账号")
+- 前序遍历：[@马克飞象](http://weibo.com/u/2788354117)，[@GGock](http://weibo.com/ggock "开发者个人账号")
+- 中序遍历：<hustgock@gmail.com>
+- 中序遍历：<hustgock@gmail.com>
+- 后序遍历：<hustgock@gmail.com>
+- 后序遍历：<hustgock@gmail.com>
+- 层级遍历：<hustgock@gmail.com>
+- 层级遍历：<hustgock@gmail.com>
+
+
+
+
+
+
+
+
+
 
 -------------------
  [线性表](https://zh.wikipedia.org/wiki/Markdown)
