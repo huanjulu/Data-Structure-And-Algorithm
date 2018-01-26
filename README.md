@@ -1,6 +1,13 @@
 # Data-Structure
 数据结构日常笔记
-- **树** 
+
+
+- **二叉树** 
+
+
+
+
+
 
 -------------------
  [线性表](https://zh.wikipedia.org/wiki/Markdown)
