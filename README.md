@@ -39,14 +39,46 @@
 
 - [前序遍历的递归实现]()：
 
+``` python
+public void preOrder(TreeNode<T> node) {
+        if(node == null)
+            return;
+        print(node);
+        preOrder(node.left);
+        preOrder(node.right);
+    }
+```
+
 - [前序遍历的非递归实现]()：
 
 - [中序遍历的递归实现]()：
+
+``` python
+public void inOrder(TreeNode<T> node) {
+    if(node == null)
+        return ;
+    inOrder(node.left);
+    //print
+    print(node);
+    inOrder(node.right);
+}
+```
 
 - [中序遍历的非递归实现]()：
 
 - [后序遍历的递归实现]()：
 
+``` python
+public void postOrder(TreeNode<T> node) {
+    if(node == null)
+        return ;
+    postOrder(node.left);
+    postOrder(node.right);
+    //print
+    print(node);
+}
+}
+```
 - [后序遍历的非递归实现]()：
 
 - [层序遍历的非递归实现]()：
