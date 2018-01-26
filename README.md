@@ -37,18 +37,6 @@
 
 一般来说，二叉树的广度优先我们指的一般是层序遍历。二叉树的深度遍历则是其余三种遍历方式
 
-- [前序遍历的递归实现]()：[@GGock](http://weibo.com/ggock "开发者个人账号")
-- 前序遍历：[@马克飞象](http://weibo.com/u/2788354117)，[@GGock](http://weibo.com/ggock "开发者个人账号")
-- 中序遍历：<hustgock@gmail.com>
-- 中序遍历：<hustgock@gmail.com>
-- 后序遍历：<hustgock@gmail.com>
-- 后序遍历：<hustgock@gmail.com>
-- 层级遍历：<hustgock@gmail.com>
-- 层级遍历：<hustgock@gmail.com>
-
-
-
-
 
 
 
