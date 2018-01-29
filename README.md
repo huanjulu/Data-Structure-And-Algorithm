@@ -37,6 +37,9 @@
 
 一般来说，二叉树的广度优先我们指的一般是层序遍历。二叉树的深度遍历则是其余三种遍历方式
 
+![](https://upload.wikimedia.org/wikipedia/commons/c/c4/%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.png)
+
+
 - [前序遍历的递归实现]()：
 
 ``` python
