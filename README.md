@@ -37,7 +37,7 @@
 
 一般来说，二叉树的广度优先我们指的一般是层序遍历。二叉树的深度遍历则是其余三种遍历方式
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c4/%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.png)
+![](https://upload.wikimedia.org/wikipedia/commons/8/8a/%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.png)
 
 
 - [前序遍历的递归实现]()：
@@ -72,6 +72,9 @@ public void preOrder(TreeNode<T> node) {
     }  
   
 ```
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c4/%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.png)
 - [中序遍历的递归实现]()：
 
 ``` python
@@ -87,6 +90,7 @@ public void inOrder(TreeNode<T> node) {
 
 - [中序遍历的非递归实现]()：
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.png/440px-%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.png)
 - [后序遍历的递归实现]()：
 
 ``` python
@@ -101,6 +105,7 @@ public void postOrder(TreeNode<T> node) {
 }
 ```
 
+![](https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.png)
 - [层序遍历的非递归实现]()：
 
 
