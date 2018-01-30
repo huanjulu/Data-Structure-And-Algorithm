@@ -29,7 +29,7 @@
 - 冒泡排序
 - 慢排序
 
-### Data Structure 数据结构
+## Data Structure 数据结构
 
 ### Tree
 - Tree. 树
