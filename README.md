@@ -3,9 +3,8 @@
 ## Algorithm
 
 二叉树：
-
 - 二叉树最远节点的距离
-- 二叉树的遍历
+- [二叉树的遍历](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/Binary%20Tree%20Traversal%20/README.md)
 - 二叉树的最大深度
 - 二叉树的最小深度
 - [判断一颗二叉树是否是一颗二叉查找树(BST)](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Search%20Tree/README.md)
