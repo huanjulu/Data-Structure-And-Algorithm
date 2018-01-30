@@ -27,7 +27,7 @@
 
 ### Tree
 - Tree. 树
-- ![Binary Tree. 二叉树](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/README.md)
+- [Binary Tree. 二叉树](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/README.md)
 - Binary Search Tree(BST). 二叉搜索树
 - Red-Black Tree. 红黑树
 - AVL Tree. avl树
