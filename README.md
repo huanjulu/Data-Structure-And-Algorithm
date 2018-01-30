@@ -44,6 +44,4 @@
 - AVL Tree. avl树
 - B Tree. B树
 
-### Lists
-
 
