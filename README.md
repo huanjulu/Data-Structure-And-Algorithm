@@ -4,7 +4,7 @@
 
 二叉树：
 - 二叉树最远节点的距离
-- [二叉树的遍历](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/Binary%20Tree%20Traversal%20/README.md).所谓树的遍历，就是按照着某种次序访问树中的点，切每个点刚好访问一次。也就是说，按照被访问的次序，可以得到一个某树节点所组成的一个序列
+- [二叉树的遍历](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/Binary%20Tree%20Traversal%20/README.md).  所谓树的遍历，就是按照着某种次序访问树中的点，切每个点刚好访问一次。也就是说，按照被访问的次序，可以得到一个某树节点所组成的一个序列
 - 二叉树的最大深度
 - 二叉树的最小深度
 - [判断一颗二叉树是否是一颗二叉查找树(BST)](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Search%20Tree/README.md)
