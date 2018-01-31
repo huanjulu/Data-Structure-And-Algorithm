@@ -3,7 +3,7 @@
 ## Algorithm
 
 二叉树：
-- [一颗二叉树最远节点的距离]. (https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/%20Farthest%20Node%20Of%20A%20Binary%20Tree/README.md)  距离最远的两点必然在以某个节点A为根的子树上，它们间的路径必然经过该子树的根节点A
+- [一颗二叉树最远节点的距离](). 距离最远的两点必然在以某个节点A为根的子树上，它们间的路径必然经过该子树的根节点A
 - [遍历一颗二叉树](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/Binary%20Tree%20Traversal%20/README.md).  所谓树的遍历，就是按照着某种次序访问树中的点，切每个点刚好访问一次。也就是说，按照被访问的次序，可以得到一个某树节点所组成的一个序列
 - 二叉树的最大深度
 - 二叉树的最小深度
