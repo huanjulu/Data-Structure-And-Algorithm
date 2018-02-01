@@ -16,7 +16,7 @@
 - [遍历一颗二叉树. Tree Traversals (Inorder, Preorder and Postorder)](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Tree/Binary%20Tree%20Traversal%20/README.md).  前序遍历，中序遍历，后序遍历，层序遍历. 所谓树的遍历，就是按照着某种次序访问树中的点，切每个点刚好访问一次。也就是说，按照被访问的次序，可以得到一个某树节点所组成的一个序列
 - [二叉树的最大深度.  Maximum Depth of Binary Tree](). 深度为根节点到最远叶子节点的距离
 - [二叉树的最小深度. Minimum Depth of a Binary Tree](). 深度为根节点到最近叶子节点的距离
-- [判断一颗二叉树是否是一颗二叉查找树. Check One Binary Tree if oe BST Tree](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Search%20Tree/Check%20BT%20if%20one%20BST%20/README.md).  根据BST的性质, 对于一颗二叉搜索(查找)树，左节点树值小于根结点，右节点数值大于根结点 (对于每一颗子树来说也是如此)。利用递归的思想判断
+- [判断一颗二叉树是否是一颗二叉查找树. Check One Binary Tree if one BST Tree](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Search%20Tree/Check%20BT%20if%20one%20BST%20/README.md).  根据BST的性质, 对于一颗二叉搜索(查找)树，左节点树值小于根结点，右节点数值大于根结点 (对于每一颗子树来说也是如此)。利用递归的思想判断
 
 
 
