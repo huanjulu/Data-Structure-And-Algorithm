@@ -4,6 +4,9 @@
 
 一般来说，二叉树的广度优先我们指的一般是层序遍历。二叉树的深度遍历则是其余三种遍历方式
 
+
+## 前序遍历实现方式
+
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8a/%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.png)
 
 
