@@ -7,6 +7,7 @@
 例如，下图二叉树最小深度是2
 
 
+![GitHub](https://github.com/huanjulu/Data-Structure-And-Algorithm/blob/master/Binary%20Tree/Calculate%20Minmum%20Depth%20Of%20Tree%20copy/tree122.gif)
 
 
 
