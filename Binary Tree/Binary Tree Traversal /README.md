@@ -12,7 +12,7 @@
 
 - [前序遍历的递归实现]()：
 
-``` python
+``` java
 public void preOrder(TreeNode<T> node) {
         if(node == null)
             return;
@@ -25,7 +25,7 @@ public void preOrder(TreeNode<T> node) {
 - [前序遍历的非递归实现]()：
 
 利用辅助栈结构实现
-``` python
+``` java
  protected static void iterativePreorder(Node p) {  
         Stack<Node> stack = new Stack<Node>();  
         if (p != null) {  
@@ -47,7 +47,7 @@ public void preOrder(TreeNode<T> node) {
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c4/%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.png)
 - [中序遍历的递归实现]()：
 
-``` python
+``` java
 public void inOrder(TreeNode<T> node) {
     if(node == null)
         return ;
@@ -64,7 +64,7 @@ public void inOrder(TreeNode<T> node) {
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.png/440px-%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.png)
 - [后序遍历的递归实现]()：
 
-``` python
+``` java
 public void postOrder(TreeNode<T> node) {
     if(node == null)
         return ;
