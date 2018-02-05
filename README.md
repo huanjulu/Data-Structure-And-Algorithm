@@ -17,7 +17,8 @@
 - [二叉树的最大深度.  Maximum Depth of Binary Tree](https://github.com/huanjulu/Data-Structure-And-Algorithm/blob/master/Binary%20Tree/Calculate%20Max%20Depth%20Of%20Tree/README.md). 深度为根节点到最远叶子节点的距离
 - [二叉树的最小深度. Minimum Depth of a Binary Tree](https://github.com/huanjulu/Data-Structure-And-Algorithm/blob/master/Binary%20Tree/Calculate%20Minmum%20Depth%20Of%20Tree%20copy/README.md). 深度为根节点到最近叶子节点的距离
 - [计算二叉树节点的个数]().  
-- [求二叉树第 k 层的结点个数]().  
+- [求二叉树第 k 层的结点个数]().
+- [二叉树中某一节点所在的层数.(Get The Level of a node in one Binary Tree)]().
 - [判断一颗二叉树是否是一颗二叉查找树. Check if One Binary Tree is one BST Tree](https://github.com/huanjulu/Algorithm/blob/master/Binary%20Search%20Tree/Check%20BT%20if%20one%20BST%20/README.md).  根据BST的性质, 对于一颗二叉搜索(查找)树，左节点树值小于根结点，右节点数值大于根结点 (对于每一颗子树来说也是如此)。利用递归的思想判断
 
 
