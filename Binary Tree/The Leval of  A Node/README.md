@@ -9,7 +9,32 @@ Given a Binary Tree and a key, write a function that returns level of the key.
 
 ![GitHub](https://github.com/huanjulu/Data-Structure-And-Algorithm/blob/master/Binary%20Tree/The%20Leval%20of%20%20A%20Node/tree_bst.gif)
 
+从根节点开始, 并且根结点的层数作为1. 如果输入的数据匹配根结点，返回层数1，否则遍历左右子树，level + 1
 
 
+``` java
+ int getLevelUtil(Node node, int data, int level) 
+    {
+        if (node == null)
+            return 0;
+  
+        if (node.data == data)
+            return level;
+  
+        int downlevel = getLevelUtil(node.left, data, level + 1);
+        if (downlevel != 0)
+            return downlevel;
+  
+        downlevel = getLevelUtil(node.right, data, level + 1);
+        return downlevel;
+    }
+  
+    /* Returns level of given data value */
+    int getLevel(Node node, int data) 
+    {
+        return getLevelUtil(node, data, 1);
+    }
+```
 
-
+  
+  
