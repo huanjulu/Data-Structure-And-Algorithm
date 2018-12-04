@@ -1,12 +1,14 @@
 
 
 #### 😍 Suggestions and contributions are welcome! 😍
+
+Read this in other languages: [简体中文]() , [English]()
+
   
 ## Data Structures IN computer Sciences
 
 
 
-Read this in other languages: [简体中文]() , [English]()
 
 
 
