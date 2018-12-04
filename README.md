@@ -5,7 +5,7 @@
 Read this in other languages: [简体中文]() , [English]()
 
   
-## Data Structures IN computer Sciences
+## Data Structures IN Computer Sciences
 
 
 
