@@ -2,7 +2,7 @@
 
 #### 😍 Suggestions and contributions are welcome! 😍
   
-## Algorithm
+## Data Structures IN computer Sciences
 
 
 
