@@ -4,7 +4,7 @@
   
 ## Algorithm
 
-二叉树： 
+
 
 Read this in other languages: [简体中文]() , [English]()
 
