@@ -5,7 +5,7 @@
 Read this in other languages: [简体中文]() , [English]()
 
   
-## Data Structures IN Computer Sciences
+## Data Structures IN Computer Science
 
 In Computer Science, a data structure is a data organization, mangement and storage firmat that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions and poerations that can be applied to the data.
 
